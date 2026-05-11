@@ -1,0 +1,8 @@
+.venv/
+.vscode/
+__pycache__/
+.pytest_cache/
+.agents/
+.codex
+*.pyc
+*.png
